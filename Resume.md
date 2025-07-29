@@ -5,7 +5,7 @@
 
 **SUMMARY**
 
-Highly motivated Computer Science Engineering graduate with a strong foundation in **Data Structures & Algorithms, Object-Oriented Design, and Full-Stack Development**. Eager to apply proficiency in **Java, Python, and scalable system design** to build robust, high-performance software solutions for **Amazon SDE-I roles**. Committed to continuous learning and problem-solving, demonstrated through diverse projects and competitive programming practice.
+Highly motivated Computer Science Engineering graduate with a strong foundation in **Data Structures & Algorithms, Object-Oriented Design, and Full-Stack Development**. Eager to apply proficiency in **Java, Python, and scalable system design** to build robust, high-performance software solutions. Committed to continuous learning and problem-solving, demonstrated through diverse projects, competitive programming practice, and a solid understanding of **software engineering principles, SDLC, and test-driven development**.
 
 ---
 
@@ -21,9 +21,9 @@ Bachelor of Engineering - Computer Science | CGPA: 8.02/10.0 | 2020-2024
 * **Programming Languages:** **Java (Spring Boot)**, Python (Flask), C, SQL, HTML, CSS, JavaScript (React.js, Node.js, Express.js)
 * **Web Technologies:** **RESTful APIs**, **Microservices Architecture**, Full-Stack Development (MERN Stack), Authentication (JWT), ORMs
 * **Databases:** MongoDB, MySQL
-* **Core CS Concepts:** **Data Structures** (Trees, Graphs, Hash Tables, Heaps), **Algorithms** (Dynamic Programming, Greedy, Sorting, Searching), **Object-Oriented Design (OOD)**, **System Design**, **Distributed Systems**, **Scalability**
+* **Core CS Concepts:** **Data Structures** (Trees, Graphs, Hash Tables, Heaps), **Algorithms** (Dynamic Programming, Greedy, Sorting, Searching), **Object-Oriented Design (OOD), Design Patterns, Multithreading**, **System Design**, **Distributed Systems**, **Scalability**
 * **Machine Learning:** Scikit-learn, Pandas, NumPy, Matplotlib, Predictive Modeling
-* **Tools & Platforms:** Git, Docker (basic), Postman, Cloud Platforms (Azure, GCP familiarity)
+* **Tools & Methodologies:** Git, Docker (basic), Postman, Cloud Platforms (Azure, GCP familiarity), **SDLC (Software Development Lifecycle), Agile Methodologies, Test-Driven Development (TDD)**, **Troubleshooting & Debugging**
 
 **Problem Solving & Competitive Programming:**
 * **LeetCode:** Solved **300+ problems** (e.g., **100 Easy, 150 Medium, 50 Hard**)
@@ -86,3 +86,4 @@ Bachelor of Engineering - Computer Science | CGPA: 8.02/10.0 | 2020-2024
 * Python for Machine Learning - Great Learning (Jul 2022)
 
 ---
+
